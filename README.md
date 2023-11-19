@@ -62,7 +62,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ameer2000mzori.github.io/awesomebooks/)
+- [Live Demo Link](https://ameer2000mzori.github.io/Blurry-Loading/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
